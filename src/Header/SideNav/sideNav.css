@@ -1,0 +1,20 @@
+.sideNavItems-decor {
+  padding-bottom: 2px;
+}
+
+.sideNavItems-decor a {
+    padding: 10px;
+    text-decoration: none;
+}
+
+.sideNavItems-decor a:visited {
+    color: rgba(26, 55, 80, 0.7);
+}
+
+.sideNavItems-decor a:hover {
+    color: rgba(7, 115, 209, 0.7);
+}
+
+.sideNavItems-decor span {
+    margin-right: 5px;
+}

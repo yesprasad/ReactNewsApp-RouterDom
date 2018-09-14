@@ -1,0 +1,40 @@
+body {
+	/* padding: 10px 30px 30px 10px; */
+	font-family: "Roboto", sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.7;
+	color: #777;
+}
+
+.headerMain {
+    height: 10vh;
+	background-image: linear-gradient(
+		to right bottom,
+		rgba(109, 139, 163, 0.7),
+		rgba(142, 174, 224, 0.8));
+	background-size: cover;
+	position: relative;
+
+}
+
+.headerOptions {
+    display: flex;
+}
+
+.logo-box {
+	position: absolute;
+	top: 10px;
+	left: 40px;
+}
+
+.logo {
+	height: 45px;
+	display: flex;
+}
+
+.header-bars {
+	padding: 10px;
+	size: 250px;
+	cursor: pointer;
+}

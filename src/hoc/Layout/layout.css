@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: '#e3f2fd';
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}

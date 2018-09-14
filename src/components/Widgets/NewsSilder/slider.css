@@ -1,0 +1,26 @@
+.slider_item {
+    position: relative;
+}
+
+.slider_item a {
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    text-decoration: none;
+}
+
+.slider_img {
+    height: 330px;
+    background-size: cover !important;
+    background-repeat: repeat !important;
+}
+
+.slider_title {
+    color: whitesmoke;
+    top: 0px;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    font-size: 24px;
+    font-weight: 300;
+}
